@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "l_name": "rosales",
+            "sl_name": "paredes",
+            "name": "andres",
+            "username": "alexrw",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 1,
+            "l_name": "rios",
+            "sl_name": "abarca",
+            "name": "ivonne",
+            "username": "ennovisoir",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 1,
+            "l_name": "hernandez",
+            "sl_name": "larios",
+            "name": "adrian",
+            "username": "pollo",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        }
+    ]
+}
